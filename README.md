@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vedansh-16/dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vedansh-16/dsa/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedansh-16/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/vedansh-16/dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vedansh-16/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vedansh-16/dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vedansh-16/dsa/tree/master/0485-max-consecutive-ones) |
