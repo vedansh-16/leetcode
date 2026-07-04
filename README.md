@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/vedansh-16/dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vedansh-16/dsa/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/vedansh-16/dsa/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vedansh-16/dsa/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/vedansh-16/dsa/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/vedansh-16/dsa/tree/master/2413-smallest-even-multiple) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/vedansh-16/dsa/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/vedansh-16/dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vedansh-16/dsa/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh-16/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/vedansh-16/dsa/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh-16/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
