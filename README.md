@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vedansh-16/leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedansh-16/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vedansh-16/dsa/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vedansh-16/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vedansh-16/leetcode/tree/master/0022-generate-parentheses) |
 | [0412-fizz-buzz](https://github.com/vedansh-16/dsa/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/vedansh-16/dsa/tree/master/0680-valid-palindrome-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh-16/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/vedansh-16/leetcode/tree/master/0766-toeplitz-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vedansh-16/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
