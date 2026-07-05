@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vedansh-16/leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedansh-16/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vedansh-16/dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vedansh-16/dsa/tree/master/0189-rotate-array) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vedansh-16/dsa/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/vedansh-16/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
