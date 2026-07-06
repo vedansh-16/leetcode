@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vedansh-16/dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vedansh-16/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vedansh-16/dsa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/vedansh-16/dsa/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/vedansh-16/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vedansh-16/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/vedansh-16/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vedansh-16/dsa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/vedansh-16/dsa/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vedansh-16/leetcode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -100,4 +103,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedansh-16/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
