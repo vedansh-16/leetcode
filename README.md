@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vedansh-16/dsa/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/vedansh-16/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/vedansh-16/dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vedansh-16/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/vedansh-16/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vedansh-16/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/vedansh-16/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vedansh-16/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vedansh-16/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vedansh-16/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vedansh-16/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/vedansh-16/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -232,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vedansh-16/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vedansh-16/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/vedansh-16/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
