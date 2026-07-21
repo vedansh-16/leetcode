@@ -252,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vedansh-16/leetcode/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vedansh-16/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
