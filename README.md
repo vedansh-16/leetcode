@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vedansh-16/dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vedansh-16/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vedansh-16/dsa/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/vedansh-16/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/vedansh-16/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vedansh-16/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vedansh-16/leetcode/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/vedansh-16/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Backtracking
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/vedansh-16/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vedansh-16/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vedansh-16/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/vedansh-16/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vedansh-16/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vedansh-16/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vedansh-16/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vedansh-16/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vedansh-16/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vedansh-16/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/vedansh-16/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vedansh-16/leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedansh-16/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vedansh-16/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vedansh-16/leetcode/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vedansh-16/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
