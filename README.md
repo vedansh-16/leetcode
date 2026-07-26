@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vedansh-16/dsa/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/vedansh-16/dsa/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/vedansh-16/dsa/tree/master/2413-smallest-even-multiple) |
+| [3536-maximum-product-of-two-digits](https://github.com/vedansh-16/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vedansh-16/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/vedansh-16/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
