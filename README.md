@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/vedansh-16/leetcode/tree/master/0994-rotting-oranges) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vedansh-16/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/vedansh-16/dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1631-path-with-minimum-effort](https://github.com/vedansh-16/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1920-build-array-from-permutation](https://github.com/vedansh-16/dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vedansh-16/dsa/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh-16/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vedansh-16/leetcode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/vedansh-16/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1631-path-with-minimum-effort](https://github.com/vedansh-16/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vedansh-16/leetcode/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/vedansh-16/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/vedansh-16/leetcode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/vedansh-16/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedansh-16/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/vedansh-16/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vedansh-16/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/vedansh-16/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/vedansh-16/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vedansh-16/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vedansh-16/leetcode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/vedansh-16/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -267,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vedansh-16/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vedansh-16/leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/vedansh-16/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/vedansh-16/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Database
 |  |
 | ------- |
@@ -281,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vedansh-16/leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/vedansh-16/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
