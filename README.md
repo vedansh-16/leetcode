@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedansh-16/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vedansh-16/dsa/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vedansh-16/leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/vedansh-16/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vedansh-16/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vedansh-16/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -140,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vedansh-16/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/vedansh-16/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vedansh-16/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/vedansh-16/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedansh-16/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vedansh-16/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vedansh-16/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/vedansh-16/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
