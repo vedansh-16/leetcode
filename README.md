@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vedansh-16/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/vedansh-16/dsa/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/vedansh-16/leetcode/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/vedansh-16/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/vedansh-16/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/vedansh-16/leetcode/tree/master/0994-rotting-oranges) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vedansh-16/leetcode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/vedansh-16/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vedansh-16/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/vedansh-16/leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/vedansh-16/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/vedansh-16/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
