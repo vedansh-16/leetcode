@@ -1,20 +1,27 @@
 class Solution {
-    HashMap<Integer,Integer> dp = new HashMap<>();
+    Map<Integer,Integer> dp = new HashMap<>();
     public int climbStairs(int n) {
-        if(n == 0 || n == 1){
+        return fun(0,n);
+    }
+
+    int fun(int i,int n){
+        if(i==n){
             return 1;
         }
 
-        if(dp.containsKey(n)){
-            return dp.get(n);
+        if(i>n){
+            return 0;
         }
 
-        int a = climbStairs(n-1);
-        int b = climbStairs(n-2);
-        int c = a+b;
+        if(dp.containsKey(i)){
+            return dp.get(i);
+        }
 
-        dp.put(n,c);
-        
-        return c;
+        int a1 = fun(i+1,n); 
+        int a2 = fun(i+2,n); 
+
+        dp.put(i,a1+a2);
+
+        return a1+a2;
     }
 }
