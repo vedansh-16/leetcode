@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vedansh-16/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/vedansh-16/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedansh-16/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/vedansh-16/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/vedansh-16/dsa/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vedansh-16/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vedansh-16/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vedansh-16/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vedansh-16/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vedansh-16/dsa/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/vedansh-16/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vedansh-16/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/vedansh-16/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vedansh-16/dsa/tree/master/0283-move-zeroes) |
