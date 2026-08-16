@@ -15,9 +15,7 @@ class Solution {
             return 0;
         }
 
-        if(k==0){
-            return 0;
-        }
+        
 
         if(dp[i][k]!=-1){
             return dp[i][k];
