@@ -385,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vedansh-16/leetcode/tree/master/0062-unique-paths) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vedansh-16/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
