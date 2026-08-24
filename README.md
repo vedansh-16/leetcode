@@ -389,4 +389,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vedansh-16/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/vedansh-16/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vedansh-16/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
