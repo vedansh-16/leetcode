@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vedansh-16/leetcode/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/vedansh-16/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/vedansh-16/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0860-lemonade-change](https://github.com/vedansh-16/leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/vedansh-16/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/vedansh-16/leetcode/tree/master/0994-rotting-oranges) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vedansh-16/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vedansh-16/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/vedansh-16/dsa/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/vedansh-16/leetcode/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
 | ------- |
