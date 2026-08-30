@@ -8,27 +8,26 @@
  * }
  */
 class Solution {
-        TreeNode ans = null;
+    TreeNode ans = null;
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         fun(root,p,q);
         return ans;
     }
-    int fun(TreeNode node,TreeNode p,TreeNode q){
+    int fun(TreeNode node, TreeNode p, TreeNode q){
         if(node==null){
             return 0;
         }
 
         int left = fun(node.left,p,q);
         int right = fun(node.right,p,q);
-        int self = 0;
 
+        int self = 0;
         if(node==p || node==q){
             self = 1;
         }
 
-        int total = left + right + self;
-
-        if(total == 2 && ans == null){
+        int total = left + self + right;
+        if(total==2 && ans == null){
             ans = node;
         }
 
