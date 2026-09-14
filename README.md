@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vedansh-16/dsa/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/vedansh-16/dsa/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vedansh-16/dsa/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/vedansh-16/leetcode/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/vedansh-16/dsa/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/vedansh-16/dsa/tree/master/2413-smallest-even-multiple) |
 | [3536-maximum-product-of-two-digits](https://github.com/vedansh-16/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -441,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/vedansh-16/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vedansh-16/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
