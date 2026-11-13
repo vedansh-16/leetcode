@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vedansh-16/dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/vedansh-16/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/vedansh-16/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/vedansh-16/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vedansh-16/dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vedansh-16/dsa/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh-16/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/vedansh-16/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/vedansh-16/leetcode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/vedansh-16/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/vedansh-16/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
