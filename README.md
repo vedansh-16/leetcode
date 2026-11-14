@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vedansh-16/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/vedansh-16/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vedansh-16/leetcode/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/vedansh-16/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vedansh-16/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedansh-16/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vedansh-16/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vedansh-16/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedansh-16/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vedansh-16/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/vedansh-16/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vedansh-16/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vedansh-16/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/vedansh-16/dsa/tree/master/0189-rotate-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vedansh-16/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/vedansh-16/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vedansh-16/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedansh-16/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vedansh-16/leetcode/tree/master/0242-valid-anagram) |
