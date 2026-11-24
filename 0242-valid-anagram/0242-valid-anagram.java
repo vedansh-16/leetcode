@@ -3,18 +3,27 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        int[] count = new int[26];
 
-        for(int i=0;i<s.length();i++){
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
-        }
+        HashMap <Character,Integer> map = new HashMap<>();
 
-        for(int i=0;i<26;i++){
-            if(count[i]!=0){
-                return false;
+        for(char c : s.toCharArray()){
+            map.put(c,map.getOrDefault(c,0)+1);
+        }   
+
+        for(char ch : t.toCharArray()){
+            if(map.containsKey(ch)){
+                map.put(ch,map.getOrDefault(ch,0)-1);
+
+                if(map.get(ch)==0){
+                    map.remove(ch);
+                }
             }
         }
-        return true;
+
+        if(map.size()==0){
+            return true;
+        }
+
+        return false;
     }
 }
